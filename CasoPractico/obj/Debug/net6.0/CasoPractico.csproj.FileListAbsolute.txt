@@ -1,0 +1,15 @@
+C:\Users\crisa\Desktop\CasoPractico\bin\Debug\net6.0\CasoPractico.exe
+C:\Users\crisa\Desktop\CasoPractico\bin\Debug\net6.0\CasoPractico.deps.json
+C:\Users\crisa\Desktop\CasoPractico\bin\Debug\net6.0\CasoPractico.runtimeconfig.json
+C:\Users\crisa\Desktop\CasoPractico\bin\Debug\net6.0\CasoPractico.dll
+C:\Users\crisa\Desktop\CasoPractico\bin\Debug\net6.0\CasoPractico.pdb
+C:\Users\crisa\Desktop\CasoPractico\obj\Debug\net6.0\CasoPractico.csproj.AssemblyReference.cache
+C:\Users\crisa\Desktop\CasoPractico\obj\Debug\net6.0\CasoPractico.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\crisa\Desktop\CasoPractico\obj\Debug\net6.0\CasoPractico.AssemblyInfoInputs.cache
+C:\Users\crisa\Desktop\CasoPractico\obj\Debug\net6.0\CasoPractico.AssemblyInfo.cs
+C:\Users\crisa\Desktop\CasoPractico\obj\Debug\net6.0\CasoPractico.csproj.CoreCompileInputs.cache
+C:\Users\crisa\Desktop\CasoPractico\obj\Debug\net6.0\CasoPractico.dll
+C:\Users\crisa\Desktop\CasoPractico\obj\Debug\net6.0\refint\CasoPractico.dll
+C:\Users\crisa\Desktop\CasoPractico\obj\Debug\net6.0\CasoPractico.pdb
+C:\Users\crisa\Desktop\CasoPractico\obj\Debug\net6.0\CasoPractico.genruntimeconfig.cache
+C:\Users\crisa\Desktop\CasoPractico\obj\Debug\net6.0\ref\CasoPractico.dll
